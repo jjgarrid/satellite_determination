@@ -1,7 +1,8 @@
-function [estimatedVel] = estimate_doppler(freq1,freq2)
-%ESTIMATE_DOPPLER Summary of this function goes here
-%   Detailed explanation goes here
-c = 343.3;
-estimatedVel = -c*(freq1-freq2)/freq2;
+function [estimatedVel] = estimate_doppler(fs,fo)
+%ESTIMATE_DOPPLER Cálculo de la velocidad usando el efecto Doppler
+%   Cálculo de la velocidad de un transponder en órbita usando el efecto
+%   Doppler. 
+c = 2.997e8; % Velocidad de la luz
+estimatedVel = (c*fs)/fo - c; % Fórmula del efecto Doppler
 end
 
