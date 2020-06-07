@@ -1,0 +1,8 @@
+Receiver0.c.o: \
+ D:/juanj/Documents/MATLAB/repos/TFG/sdr/Receiver0_ert_rtw/Receiver0.c \
+ D:/juanj/Documents/MATLAB/repos/TFG/sdr/Receiver0_ert_rtw/Receiver0.h \
+ D:/juanj/Documents/MATLAB/repos/TFG/sdr/Receiver0_ert_rtw/rtwtypes.h
+
+D:/juanj/Documents/MATLAB/repos/TFG/sdr/Receiver0_ert_rtw/Receiver0.h:
+
+D:/juanj/Documents/MATLAB/repos/TFG/sdr/Receiver0_ert_rtw/rtwtypes.h:

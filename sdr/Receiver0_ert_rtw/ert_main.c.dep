@@ -1,0 +1,11 @@
+ert_main.c.o: \
+ D:/juanj/Documents/MATLAB/repos/TFG/sdr/Receiver0_ert_rtw/ert_main.c \
+ D:/juanj/Documents/MATLAB/repos/TFG/sdr/Receiver0_ert_rtw/Receiver0.h \
+ D:/juanj/Documents/MATLAB/repos/TFG/sdr/Receiver0_ert_rtw/rtwtypes.h \
+ D:/MATLAB/R2020a/toolbox/target/codertarget/rtos/inc/linuxinitialize.h
+
+D:/juanj/Documents/MATLAB/repos/TFG/sdr/Receiver0_ert_rtw/Receiver0.h:
+
+D:/juanj/Documents/MATLAB/repos/TFG/sdr/Receiver0_ert_rtw/rtwtypes.h:
+
+D:/MATLAB/R2020a/toolbox/target/codertarget/rtos/inc/linuxinitialize.h:
