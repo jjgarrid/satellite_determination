@@ -1,0 +1,41 @@
+{
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0.19  2019-03-26 bk=1.5019 VDI=41 GEI=35 GUI=JA:9.0 non-TLS
+#  -string -flagsOSRD
+preplace port DDR -pg 1 -lvl 6 -x 1570 -y 630 -defaultsOSRD
+preplace port FIXED_IO -pg 1 -lvl 6 -x 1570 -y 650 -defaultsOSRD
+preplace inst axi_cpu_interconnect -pg 1 -lvl 4 -x 1070 -y 240 -defaultsOSRD
+preplace inst const_intr_concat_gnd -pg 1 -lvl 1 -x 100 -y 540 -defaultsOSRD
+preplace inst core_clkwiz -pg 1 -lvl 2 -x 310 -y 400 -defaultsOSRD
+preplace inst intr_concat -pg 1 -lvl 2 -x 310 -y 690 -defaultsOSRD
+preplace inst sys_100m_rstgen -pg 1 -lvl 3 -x 640 -y 110 -defaultsOSRD
+preplace inst sys_core_rstgen -pg 1 -lvl 3 -x 640 -y 310 -defaultsOSRD
+preplace inst sys_cpu -pg 1 -lvl 4 -x 1070 -y 690 -defaultsOSRD
+preplace inst PN_genera_ip_tx_0 -pg 1 -lvl 5 -x 1440 -y 100 -defaultsOSRD
+preplace inst PN_genera_ip_rx_0 -pg 1 -lvl 5 -x 1440 -y 280 -defaultsOSRD
+preplace inst SignalGen_ip_0 -pg 1 -lvl 5 -x 1440 -y 460 -defaultsOSRD
+preplace inst proc_sys_reset_0 -pg 1 -lvl 3 -x 640 -y 530 -defaultsOSRD
+preplace netloc const_intr_concat_gnd 1 1 1 210J 540n
+preplace netloc core_clkwiz_locked_net 1 2 1 410 350n
+preplace netloc intr_concat_dout 1 2 2 NJ 690 810
+preplace netloc proc_100m_resetn 1 1 4 210 320 430 630 840 550 1280
+preplace netloc sys_100m_resetn 1 3 1 840 150n
+preplace netloc sys_core_resetn 1 3 2 840 400 1330
+preplace netloc core_clkwiz_clk_out1 1 2 3 440 410 810 410 1320
+preplace netloc core_clkwiz_clk_out2 1 2 3 420J 420 830 420 1300
+preplace netloc sys_cpu_FCLK_CLK0 1 1 4 200 210 410 210 820 830 1270
+preplace netloc proc_sys_reset_0_peripheral_aresetn 1 3 2 830 540 1320
+preplace netloc axi_cpu_interconnect_M01_AXI 1 4 1 N 240
+preplace netloc sys_cpu_DDR 1 4 2 NJ 630 NJ
+preplace netloc axi_cpu_interconnect_s00_axi 1 3 2 840 80 1290
+preplace netloc sys_cpu_FIXED_IO 1 4 2 NJ 650 NJ
+preplace netloc axi_cpu_interconnect_M00_AXI 1 4 1 1310 60n
+preplace netloc axi_cpu_interconnect_M02_AXI 1 4 1 1310 260n
+levelinfo -pg 1 -10 100 310 640 1070 1440 1570
+pagesize -pg 1 -db -bbox -sgen -10 0 1690 910
+"
+}
+{
+   "da_axi4_cnt":"2",
+   "da_clkrst_cnt":"13"
+}
