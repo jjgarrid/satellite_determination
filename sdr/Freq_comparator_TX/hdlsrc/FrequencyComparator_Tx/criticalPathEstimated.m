@@ -1,0 +1,13 @@
+open_system('gm_FrequencyComparator_Tx');
+cs.HiliteType = 'user2';
+cs.ForegroundColor = 'black';
+cs.BackgroundColor = 'lightblue';
+set_param(0, 'HiliteAncestorsData', cs);
+hilite_system('gm_FrequencyComparator_Tx/Signal Generation/Sine Wave', 'user2');
+annotate_port('gm_FrequencyComparator_Tx/Signal Generation/Sine Wave', 0, 1, 'cp : 7.9105 ns');
+cs.HiliteType = 'user1';
+cs.ForegroundColor = 'black';
+cs.BackgroundColor = 'blue';
+set_param(0, 'HiliteAncestorsData', cs);
+hilite_system('gm_FrequencyComparator_Tx/Signal Generation/Complex to Real-Imag', 'user1');
+annotate_port('gm_FrequencyComparator_Tx/Signal Generation/Complex to Real-Imag', 0, 1, 'cp : 7.9105 ns');

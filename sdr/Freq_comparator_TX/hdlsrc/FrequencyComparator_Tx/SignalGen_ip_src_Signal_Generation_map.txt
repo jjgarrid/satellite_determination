@@ -1,0 +1,3 @@
+ --> SignalGen_ip_src_Signal_Generation_pkg
+FrequencyComparator_Tx/Signal Generation/Sine Wave --> SignalGen_ip_src_Sine_Wave
+FrequencyComparator_Tx/Signal Generation --> SignalGen_ip_src_Signal_Generation

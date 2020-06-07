@@ -1,0 +1,26 @@
+{
+ "baseUrl":"support/slwebview_files",
+ "homeHid":2,
+ "initialElement":"",
+ "sections":[
+  {
+   "hid":1,
+   "sid":"FrequencyComparator_Tx",
+   "name":"FrequencyComparator_Tx",
+   "fullname":"FrequencyComparator_Tx",
+   "label":"FrequencyComparator_Tx*",
+   "parent":0,
+   "descendants":[
+    2
+   ],
+   "hierarchyUrl":"support/slwebview_files/FrequencyComparator_Tx_h_1.json",
+   "backingUrl":"support/slwebview_files/FrequencyComparator_Tx_m.json"
+  }
+ ],
+ "optViews":[
+ ],
+ "display":{
+  "informer":false
+ },
+ "iconsUrl":"support/slwebview_files/FrequencyComparator_Tx_37_icons.css"
+}

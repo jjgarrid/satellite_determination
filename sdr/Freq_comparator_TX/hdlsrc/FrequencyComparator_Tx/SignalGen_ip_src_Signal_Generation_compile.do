@@ -1,0 +1,4 @@
+vlib work
+vcom  SignalGen_ip_src_Signal_Generation_pkg.vhd
+vcom  SignalGen_ip_src_Sine_Wave.vhd
+vcom  SignalGen_ip_src_Signal_Generation.vhd

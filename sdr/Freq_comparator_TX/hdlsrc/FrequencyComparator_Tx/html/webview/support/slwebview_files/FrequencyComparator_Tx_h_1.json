@@ -1,0 +1,41 @@
+[
+ {
+  "hid":1,
+  "sid":"FrequencyComparator_Tx",
+  "esid":"",
+  "parent":0,
+  "children":[
+   2
+  ],
+  "name":"FrequencyComparator_Tx",
+  "fullname":"FrequencyComparator_Tx",
+  "label":"FrequencyComparator_Tx",
+  "icon":"FrequencyComparator_Tx_370",
+  "sameAsElement":false
+ },
+ {
+  "hid":2,
+  "sid":"FrequencyComparator_Tx:37",
+  "esid":"FrequencyComparator_Tx:37",
+  "parent":1,
+  "children":[
+  ],
+  "name":"Signal Generation",
+  "fullname":"FrequencyComparator_Tx/Signal Generation",
+  "label":"Signal Generation",
+  "icon":"FrequencyComparator_Tx_371",
+  "svg":"support/slwebview_files/FrequencyComparator_Tx_37_d.svg",
+  "thumbnail":"support/slwebview_files/FrequencyComparator_Tx_37_d.png",
+  "backingUrl":"support/slwebview_files/FrequencyComparator_Tx_37_d.json",
+  "elements":[
+   ":36",
+   ":38",
+   ":40",
+   ":41",
+   ":36#out:1",
+   ":40#out:1",
+   ":40#out:2"
+  ],
+  "sameAsElement":true
+ }
+]
