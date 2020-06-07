@@ -1,0 +1,8 @@
+vlib work
+vcom  PN_genera_ip_rx_src_FIR_Decimation.vhd
+vcom  PN_genera_ip_rx_src_FIR_Decimation_block.vhd
+vcom  PN_genera_ip_rx_src_Raised_Cosine_Receive_Filter.vhd
+vcom  PN_genera_ip_rx_src_Raised_Cosine_Receive_Filter1.vhd
+vcom  PN_genera_ip_rx_src_BPSK_Demodulator_Baseband.vhd
+vcom  PN_genera_ip_rx_src_Receptor_tc.vhd
+vcom  PN_genera_ip_rx_src_Receptor.vhd

@@ -1,0 +1,28 @@
+{
+ "baseUrl":"support/slwebview_files",
+ "homeHid":2,
+ "initialElement":"",
+ "sections":[
+  {
+   "hid":1,
+   "sid":"PN_generatorV2",
+   "name":"PN_generatorV2",
+   "fullname":"PN_generatorV2",
+   "label":"PN_generatorV2*",
+   "parent":0,
+   "descendants":[
+    2,
+    3,
+    4
+   ],
+   "hierarchyUrl":"support/slwebview_files/PN_generatorV2_h_1.json",
+   "backingUrl":"support/slwebview_files/PN_generatorV2_m.json"
+  }
+ ],
+ "optViews":[
+ ],
+ "display":{
+  "informer":false
+ },
+ "iconsUrl":"support/slwebview_files/PN_generatorV2_29_icons.css"
+}

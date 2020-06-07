@@ -1,0 +1,11 @@
+linuxinitialize.c.o: \
+ D:/MATLAB/R2020a/toolbox/target/codertarget/rtos/src/linuxinitialize.c \
+ D:/MATLAB/R2020a/toolbox/target/codertarget/rtos/inc/linuxinitialize.h \
+ D:/juanj/Documents/MATLAB/repos/TFG/sdr/PN_generator_Tx_ert_rtw/rtwtypes.h \
+ D:/juanj/Documents/MATLAB/repos/TFG/sdr/PN_generator_Tx_ert_rtw/MW_custom_RTOS_header.h
+
+D:/MATLAB/R2020a/toolbox/target/codertarget/rtos/inc/linuxinitialize.h:
+
+D:/juanj/Documents/MATLAB/repos/TFG/sdr/PN_generator_Tx_ert_rtw/rtwtypes.h:
+
+D:/juanj/Documents/MATLAB/repos/TFG/sdr/PN_generator_Tx_ert_rtw/MW_custom_RTOS_header.h:

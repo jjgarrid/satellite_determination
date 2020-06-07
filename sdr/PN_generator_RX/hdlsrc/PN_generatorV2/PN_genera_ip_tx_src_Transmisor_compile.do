@@ -1,0 +1,11 @@
+vlib work
+vcom  PN_genera_ip_tx_src_FIR_Interpolation.vhd
+vcom  PN_genera_ip_tx_src_FIR_Interpolation_block.vhd
+vcom  PN_genera_ip_tx_src_PN_Sequence_Generator1.vhd
+vcom  PN_genera_ip_tx_src_PN_Sequence_Generator2.vhd
+vcom  PN_genera_ip_tx_src_Gold_Sequence_Generator.vhd
+vcom  PN_genera_ip_tx_src_Raised_Cosine_Transmit_Filter2.vhd
+vcom  PN_genera_ip_tx_src_Raised_Cosine_Transmit_Filter3.vhd
+vcom  PN_genera_ip_tx_src_BPSK_Modulator_Baseband.vhd
+vcom  PN_genera_ip_tx_src_Transmisor_tc.vhd
+vcom  PN_genera_ip_tx_src_Transmisor.vhd

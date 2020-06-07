@@ -1,0 +1,97 @@
+[
+ {
+  "hid":1,
+  "sid":"PN_generatorV2",
+  "esid":"",
+  "parent":0,
+  "children":[
+   2
+  ],
+  "name":"PN_generatorV2",
+  "fullname":"PN_generatorV2",
+  "label":"PN_generatorV2",
+  "icon":"PN_generatorV2_290",
+  "sameAsElement":false
+ },
+ {
+  "hid":2,
+  "sid":"PN_generatorV2:29",
+  "esid":"PN_generatorV2:29",
+  "parent":1,
+  "children":[
+   3,
+   4
+  ],
+  "name":"Receptor",
+  "fullname":"PN_generatorV2/Receptor",
+  "label":"Receptor",
+  "icon":"PN_generatorV2_291",
+  "svg":"support/slwebview_files/PN_generatorV2_29_d.svg",
+  "thumbnail":"support/slwebview_files/PN_generatorV2_29_d.png",
+  "backingUrl":"support/slwebview_files/PN_generatorV2_29_d.json",
+  "elements":[
+   ":10",
+   ":11",
+   ":13",
+   ":12",
+   ":18",
+   ":30",
+   ":31",
+   ":32",
+   ":12#out:1",
+   ":11#out:1",
+   ":13#out:1",
+   ":10#out:1",
+   ":30#out:1",
+   ":31#out:1",
+   ":18#out:1"
+  ],
+  "sameAsElement":true
+ },
+ {
+  "hid":3,
+  "sid":"PN_generatorV2:11",
+  "esid":"PN_generatorV2:11",
+  "parent":2,
+  "children":[
+  ],
+  "name":"Raised Cosine\nReceive Filter",
+  "fullname":"PN_generatorV2/Receptor/Raised Cosine Receive Filter",
+  "label":"Raised Cosine Receive Filter",
+  "icon":"PN_generatorV2_292",
+  "svg":"support/slwebview_files/PN_generatorV2_11_d.svg",
+  "thumbnail":"support/slwebview_files/PN_generatorV2_11_d.png",
+  "backingUrl":"support/slwebview_files/PN_generatorV2_11_d.json",
+  "elements":[
+   ":11:29",
+   ":11:31",
+   ":11:32",
+   ":11:29#out:1",
+   ":11:31#out:1"
+  ],
+  "sameAsElement":true
+ },
+ {
+  "hid":4,
+  "sid":"PN_generatorV2:12",
+  "esid":"PN_generatorV2:12",
+  "parent":2,
+  "children":[
+  ],
+  "name":"Raised Cosine\nReceive Filter1",
+  "fullname":"PN_generatorV2/Receptor/Raised Cosine Receive Filter1",
+  "label":"Raised Cosine Receive Filter1",
+  "icon":"PN_generatorV2_292",
+  "svg":"support/slwebview_files/PN_generatorV2_12_d.svg",
+  "thumbnail":"support/slwebview_files/PN_generatorV2_12_d.png",
+  "backingUrl":"support/slwebview_files/PN_generatorV2_12_d.json",
+  "elements":[
+   ":12:29",
+   ":12:31",
+   ":12:32",
+   ":12:29#out:1",
+   ":12:31#out:1"
+  ],
+  "sameAsElement":true
+ }
+]

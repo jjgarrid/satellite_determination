@@ -1,0 +1,7 @@
+PN_genera_ip_src_Raised_Cosine_Receive_Filter/PN_genera_ip_src_FIR_Decimation --> PN_genera_ip_src_FIR_Decimation
+PN_genera_ip_src_Raised_Cosine_Receive_Filter1/PN_genera_ip_src_FIR_Decimation_block --> PN_genera_ip_src_FIR_Decimation_block
+PN_generatorV2/Receptor/Raised Cosine Receive Filter --> PN_genera_ip_src_Raised_Cosine_Receive_Filter
+PN_generatorV2/Receptor/Raised Cosine Receive Filter1 --> PN_genera_ip_src_Raised_Cosine_Receive_Filter1
+PN_generatorV2/Receptor/BPSK Demodulator Baseband --> PN_genera_ip_src_BPSK_Demodulator_Baseband
+Receptor_tc --> PN_genera_ip_src_Receptor_tc
+PN_generatorV2/Receptor --> PN_genera_ip_src_Receptor

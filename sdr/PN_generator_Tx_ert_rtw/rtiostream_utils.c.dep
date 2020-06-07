@@ -1,0 +1,11 @@
+rtiostream_utils.c.o: \
+ D:/MATLAB/R2020a/toolbox/coder/rtiostream/src/utils/rtiostream_utils.c \
+ D:/MATLAB/R2020a/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h \
+ D:/juanj/Documents/MATLAB/repos/TFG/sdr/PN_generator_Tx_ert_rtw/rtwtypes.h \
+ D:/MATLAB/R2020a/toolbox/coder/rtiostream/src/rtiostream.h
+
+D:/MATLAB/R2020a/toolbox/coder/rtiostream/src/utils/rtiostream_utils.h:
+
+D:/juanj/Documents/MATLAB/repos/TFG/sdr/PN_generator_Tx_ert_rtw/rtwtypes.h:
+
+D:/MATLAB/R2020a/toolbox/coder/rtiostream/src/rtiostream.h:

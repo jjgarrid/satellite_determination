@@ -1,0 +1,10 @@
+PN_genera_ip_src_Raised_Cosine_Transmit_Filter2/PN_genera_ip_src_FIR_Interpolation --> PN_genera_ip_src_FIR_Interpolation
+PN_genera_ip_src_Raised_Cosine_Transmit_Filter3/PN_genera_ip_src_FIR_Interpolation_block --> PN_genera_ip_src_FIR_Interpolation_block
+PN_generatorV2/Transmisor/Gold Sequence Generator/PN Sequence Generator1 --> PN_genera_ip_src_PN_Sequence_Generator1
+PN_generatorV2/Transmisor/Gold Sequence Generator/PN Sequence Generator2 --> PN_genera_ip_src_PN_Sequence_Generator2
+PN_generatorV2/Transmisor/Gold Sequence Generator --> PN_genera_ip_src_Gold_Sequence_Generator
+PN_generatorV2/Transmisor/Raised Cosine Transmit Filter2 --> PN_genera_ip_src_Raised_Cosine_Transmit_Filter2
+PN_generatorV2/Transmisor/Raised Cosine Transmit Filter3 --> PN_genera_ip_src_Raised_Cosine_Transmit_Filter3
+PN_generatorV2/Transmisor/BPSK Modulator Baseband --> PN_genera_ip_src_BPSK_Modulator_Baseband
+Transmisor_tc --> PN_genera_ip_src_Transmisor_tc
+PN_generatorV2/Transmisor --> PN_genera_ip_src_Transmisor
